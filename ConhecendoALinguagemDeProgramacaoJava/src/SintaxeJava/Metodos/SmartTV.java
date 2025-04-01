@@ -5,6 +5,10 @@ public class SmartTV {
     int canal=1;
     int volume=25;
 
+    /**
+     * Métodos para alterar os canais, volume e ligar/desligar TV.
+     */
+
     public void mudarCanal(int novoCanal){
         canal = novoCanal;
     }
