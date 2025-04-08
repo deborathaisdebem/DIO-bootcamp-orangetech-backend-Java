@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ConhecendoALinguagemDeProgramacaoJava/ConhecendoALinguagemDeProgramacaoJava.iml" filepath="$PROJECT_DIR$/ConhecendoALinguagemDeProgramacaoJava/ConhecendoALinguagemDeProgramacaoJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DIO-bootcamp-orangetech-backend-Java.iml" filepath="$PROJECT_DIR$/.idea/DIO-bootcamp-orangetech-backend-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstruturasDeRepeticaoEArraysEmJava/EstruturasDeRepeticaoEArraysEmJava.iml" filepath="$PROJECT_DIR$/EstruturasDeRepeticaoEArraysEmJava/EstruturasDeRepeticaoEArraysEmJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/LogicaCondicionaleControledeFluxosemJava/LogicaCondicionaleControledeFluxosEmJava.iml" filepath="$PROJECT_DIR$/LogicaCondicionaleControledeFluxosemJava/LogicaCondicionaleControledeFluxosEmJava.iml" />
     </modules>
   </component>
