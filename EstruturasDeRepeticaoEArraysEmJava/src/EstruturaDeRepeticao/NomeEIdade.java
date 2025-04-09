@@ -15,10 +15,15 @@ public class NomeEIdade {
         String nome;
         int idade;
 
-        System.out.print("Nome: ");
-        nome = scan.nextLine();
-        System.out.println("Idade: ");
-        idade = scan.nextInt();
 
+        while (true) {
+            System.out.print("Nome: ");
+            nome = scan.next();
+            if (nome.equals("0")) break;
+
+            System.out.print("Idade: ");
+            idade = scan.nextInt();
+        }
+        System.out.println("Continua aqui...");
     }
 }
